@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5835" started-at="2021-10-13T02:56:25Z" finished-at="2021-10-13T02:56:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5835" started-at="2021-10-13T02:56:25Z" finished-at="2021-10-13T02:56:30Z">
+      <class name="testing.ActualTest">
+        <test-method status="PASS" signature="intialization()[pri:0, instance:testing.ActualTest@685cb137]" name="intialization" is-config="true" duration-ms="2576" started-at="2021-10-13T02:56:25Z" finished-at="2021-10-13T02:56:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialization -->
+        <test-method status="PASS" signature="dolog()[pri:0, instance:testing.ActualTest@685cb137]" name="dolog" duration-ms="3223" started-at="2021-10-13T02:56:27Z" finished-at="2021-10-13T02:56:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dolog -->
+      </class> <!-- testing.ActualTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
